@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U/KbdUAIBxSLxeaeRIH/y0zMnGO210Xc+aLtIvd0RPY=",
+  "Source": "ProductMicroservice.API",
+  "BasePath": "_content/ProductMicroservice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

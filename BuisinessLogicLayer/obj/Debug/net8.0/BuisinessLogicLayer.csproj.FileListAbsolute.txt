@@ -1,0 +1,15 @@
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/bin/Debug/net8.0/BuisinessLogicLayer.deps.json
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/bin/Debug/net8.0/BuisinessLogicLayer.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/bin/Debug/net8.0/BuisinessLogicLayer.pdb
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/BuisinessLogicLayer.csproj.AssemblyReference.cache
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/BuisinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/BuisinessLogicLayer.AssemblyInfoInputs.cache
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/BuisinessLogicLayer.AssemblyInfo.cs
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/BuisinessLogicLayer.csproj.CoreCompileInputs.cache
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/Buisines.3CB6D556.Up2Date
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/BuisinessLogicLayer.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/refint/BuisinessLogicLayer.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/BuisinessLogicLayer.pdb
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/BuisinessLogicLayer/obj/Debug/net8.0/ref/BuisinessLogicLayer.dll

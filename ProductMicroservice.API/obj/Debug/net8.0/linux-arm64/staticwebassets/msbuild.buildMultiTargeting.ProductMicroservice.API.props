@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ProductMicroservice.API.props" />
+</Project>

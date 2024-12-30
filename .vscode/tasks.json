@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch ProductMicroservice.API",
+			"file": "/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.ProductService/ProductMicroservice.API/ProductMicroservice.API.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch ProductMicroservice.API"
+		},
+		{
+			"type": "dotnet",
+			"task": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build"
+		}
+	]
+}
